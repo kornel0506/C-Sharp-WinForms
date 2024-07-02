@@ -1,0 +1,4 @@
+001;Jakabos Zsuzsanna;1989.04.03;Magyarország;2:05.18
+002;Kiss Béla;1999.06.17;Magyarország;1:59.67
+003;Rövid Renáta;2000.11.11;Magyarország;2:12.34
+004;Alacsony Aladár;1978.08.20;Magyarország;2:32.99
