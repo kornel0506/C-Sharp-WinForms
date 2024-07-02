@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Talalkozo\Talalkozo\bin\Debug\Talalkozo.exe.config
+C:\Users\user\source\repos\Talalkozo\Talalkozo\bin\Debug\Talalkozo.exe
+C:\Users\user\source\repos\Talalkozo\Talalkozo\bin\Debug\Talalkozo.pdb
+C:\Users\user\source\repos\Talalkozo\Talalkozo\obj\Debug\Talalkozo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Talalkozo\Talalkozo\obj\Debug\Talalkozo.Form1.resources
+C:\Users\user\source\repos\Talalkozo\Talalkozo\obj\Debug\Talalkozo.Properties.Resources.resources
+C:\Users\user\source\repos\Talalkozo\Talalkozo\obj\Debug\Talalkozo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Talalkozo\Talalkozo\obj\Debug\Talalkozo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Talalkozo\Talalkozo\obj\Debug\Talalkozo.exe
+C:\Users\user\source\repos\Talalkozo\Talalkozo\obj\Debug\Talalkozo.pdb
