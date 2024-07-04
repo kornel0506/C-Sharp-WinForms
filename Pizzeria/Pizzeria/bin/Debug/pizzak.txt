@@ -1,0 +1,10 @@
+Magyaros;890;1090
+Vegetáriánus;990;1190
+Gyros Mítosz;890;1090
+Vesuvio;990;990
+Négy sajtos;1090;1090
+Torino;980;980
+SonGoKu;1190;1290
+Sonkás;790;890
+Betyáros;1390;1490
+Görög;1290;1390
