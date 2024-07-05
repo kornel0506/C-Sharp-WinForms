@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Diakok\Diakok\bin\Debug\Diakok.exe.config
+C:\Users\user\source\repos\Diakok\Diakok\bin\Debug\Diakok.exe
+C:\Users\user\source\repos\Diakok\Diakok\bin\Debug\Diakok.pdb
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.Form1.resources
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.Properties.Resources.resources
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.exe
+C:\Users\user\source\repos\Diakok\Diakok\obj\Debug\Diakok.pdb

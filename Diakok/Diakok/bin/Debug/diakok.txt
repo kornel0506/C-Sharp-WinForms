@@ -1,0 +1,6 @@
+Harangozó Péter;HAPEAB.PTE;1988
+Takács Géza;TAGEAB.PTE;1991
+Tamási Ernő;TAERAB.PTE;1990
+Németh Éva;NEEVAB.PTE;1989
+Boros Dezső;BODEAB.PTE;1992
+Máté Nóra;MANOAB.PTE;1990
