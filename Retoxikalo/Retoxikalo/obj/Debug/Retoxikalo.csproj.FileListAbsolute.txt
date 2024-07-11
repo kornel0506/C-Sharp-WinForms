@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.Form1.resources
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.Properties.Resources.resources
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\bin\Debug\Retoxikalo.exe.config
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\bin\Debug\Retoxikalo.exe
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\bin\Debug\Retoxikalo.pdb
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.GaleriaForm.resources
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.ItalLapForm.resources
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.SzamlaForm.resources
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.exe
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.pdb
+C:\Users\user\source\repos\Retoxikalo\Retoxikalo\obj\Debug\Retoxikalo.SugoForm.resources
