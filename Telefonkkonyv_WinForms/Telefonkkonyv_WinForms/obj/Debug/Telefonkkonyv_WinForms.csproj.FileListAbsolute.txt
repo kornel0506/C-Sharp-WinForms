@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\bin\Debug\Telefonkkonyv_WinForms.exe.config
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\bin\Debug\Telefonkkonyv_WinForms.exe
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\bin\Debug\Telefonkkonyv_WinForms.pdb
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\obj\Debug\Telefonkkonyv_WinForms.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\obj\Debug\Telefonkkonyv_WinForms.Form1.resources
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\obj\Debug\Telefonkkonyv_WinForms.Properties.Resources.resources
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\obj\Debug\Telefonkkonyv_WinForms.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\obj\Debug\Telefonkkonyv_WinForms.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\obj\Debug\Telefonkkonyv_WinForms.exe
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\obj\Debug\Telefonkkonyv_WinForms.pdb
+C:\Users\user\source\repos\Telefonkkonyv_WinForms\Telefonkkonyv_WinForms\obj\Debug\Telefonkkonyv_WinForms.FormAdd.resources
